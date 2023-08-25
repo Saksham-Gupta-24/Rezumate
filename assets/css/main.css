@@ -460,20 +460,6 @@ a {
     margin-bottom: 10px;
 }
 
-/* footer */
-/* .footer {
-    padding: 3rem 0;
-} */
-/* 
-.footer-content p {
-    color: var(--clr-grey);
-}
-
-.footer-content p span {
-    color: var(--clr-white);
-} */
-
-
 /* media queries */
 @media screen and (min-width: 768px) {
     .section-two .section-items {
