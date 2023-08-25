@@ -300,7 +300,7 @@ a {
 .btn-secondary:hover {
     background-color: var(--clr-blue-dark);
     color: var(--clr-white);
-    border-color: var(--clr-blue);
+    border-color: var(--clr-blue-dark);
 }
 
 .btn-group button:first-child,
