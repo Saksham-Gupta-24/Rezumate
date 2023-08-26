@@ -2,7 +2,7 @@
 <p align="center">
   Welcome to Rezumate - Your Modern Resume Building Solution!
   <br>
- <strong> <a href="https://www.linkedin.com/posts/saksham-gupta24_codeclause-login-authfusion-activity-7098976647072157696-FCVp?utm_source=share&utm_medium=member_desktop">Live Demo Video</a></strong>
+ <strong> <a href="https://www.linkedin.com/posts/saksham-gupta24_codeclause-webdevelopment-resumebuilder-activity-7101089327702544384-6Z8Q?utm_source=share&utm_medium=member_desktop">Live Demo Video</a></strong>
 
 
 ## Overview
